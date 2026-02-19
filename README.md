@@ -14,12 +14,12 @@ Desarrollar un sistema de recomendación escalable que genere sugerencias person
 ---
 
 ## 🗂 Organización del repositorio
-docs/          → Documentación del proyecto (PDF's, diagramas, decisiones)
-src/           → Código fuente (scripts de procesamiento, modelos, API, app)
-data/          → Datos (datasets públicos, simulados o de prueba)
-environment/   → Entorno de desarrollo (requirements.txt, environment.yml)
-README.md      → Información general del proyecto
-.gitignore     → Archivos y carpetas a ignorar por Git
+- `docs/` → Documentación del proyecto (PDF's, diagramas, decisiones)  
+- `src/` → Código fuente (scripts de procesamiento, modelos, API, app)  
+- `data/` → Datos (datasets públicos, simulados o de prueba)  
+- `environment/` → Entorno de desarrollo (requirements.txt, environment.yml)  
+- `README.md` → Información general del proyecto  
+- `.gitignore` → Archivos y carpetas a ignorar por Git
 ---
 
 ## ⚙️ Tecnologías previstas
